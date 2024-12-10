@@ -6,7 +6,13 @@ Welcome to my GitHub profile! 🎉
 - 🌱 **I’m currently learning:**  
   Advanced JavaScript, PHP, Vuejs, C# Spring Boot, and Flutter for mobile development.   
 - ⚡ **Fun fact:**  
-  I love exploring new technologies and creating user-friendly designs.  
+  I love exploring new technologies and creating user-friendly designs.
+  
+##  🎓 Education
+- University: HUTECH University
+- GPA: 3.59/4.0
+- Year: 2021-2025
+
 ## 💻 Tech Stack  
 ### Languages  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
